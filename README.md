@@ -1,2 +1,2 @@
-# DIO-desafio
+# Desafio de Projeto
 Desafios de projeto DIO
